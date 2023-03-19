@@ -1,0 +1,6 @@
+#Ignore image files
+head.png
+head_clean.png
+head_gaussian_noise.png
+head_saltpepper_noise.png
+skeleton_orig.tif
